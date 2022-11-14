@@ -67,7 +67,7 @@
 .about__jobs {
   display: flex;
   justify-content: space-around;
-  margin: 1% 15%;
+  margin: 9% 15%;
 }
 
 .job {
@@ -113,16 +113,6 @@
 
   .major {
     margin-bottom: 30px;
-  }
-
-  .about__jobs {
-    flex-direction: column;
-    align-items: center;
-    margin-top: 30px;
-
-    .job {
-      margin-bottom: 20px;
-    }
   }
 
   #job__logo2 {

@@ -2,7 +2,6 @@ import React from 'react';
 import {
   Navigation,
   About,
-  Skills,
   Work,
   Testimonials,
   Contact,
@@ -15,7 +14,6 @@ const App = () => {
       <Navigation />
       <Home />
       <About />
-      {/* <Skills /> */}
       <Work />
       <Testimonials />
       <Contact />
