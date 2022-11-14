@@ -2,11 +2,13 @@ import React from 'react';
 import { Image } from 'react-bootstrap';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import {
+  faDatabase,
   faLaptopCode,
   faMobile,
   faServer,
 } from '@fortawesome/free-solid-svg-icons';
 import SaitLogo from '../assets/img/educations/saitLogo.png';
+import { faReact } from '@fortawesome/free-brands-svg-icons';
 
 const About = () => {
   return (
@@ -23,7 +25,7 @@ const About = () => {
           <div className="major">
             <div className="major__icon">
               <div>
-                <FontAwesomeIcon icon={faLaptopCode} />
+                <FontAwesomeIcon icon={faReact} />
               </div>
             </div>
             <div className="major__title">Front-end</div>
@@ -37,7 +39,7 @@ const About = () => {
           <div className="major">
             <div className="major__icon">
               <div>
-                <FontAwesomeIcon icon={faMobile} />
+                <FontAwesomeIcon icon={faServer} />
               </div>
             </div>
             <div className="major__title">Mobile</div>
@@ -47,7 +49,7 @@ const About = () => {
           <div className="major">
             <div className="major__icon">
               <div>
-                <FontAwesomeIcon icon={faServer} />
+                <FontAwesomeIcon icon={faDatabase} />
               </div>
             </div>
             <div className="major__title">Back-end</div>
