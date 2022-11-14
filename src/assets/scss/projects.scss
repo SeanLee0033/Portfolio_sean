@@ -1,11 +1,12 @@
 #work {
   .rec.rec-arrow {
     &:hover {
-      color: white;
-      background-color: #C5E1DE;
+      color: $color-sky-blue;
+      background-color: #404040;
     }
 
     color: $color-blue;
+    background-color: #404040;
   }
 
   .rec.rec-arrow-left {

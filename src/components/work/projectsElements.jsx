@@ -8,8 +8,8 @@ export const ProjectsContainer = styled.div`
   flex-direction: column;
   justify-content: center;
   /* align-items: center; */
-  /* background: #C5E1DE; */
-  background: #030015;
+  /* background: #838383; */
+  background: #404040;
 
   @media screen and (max-width: 450px) {
     min-height: 700px;

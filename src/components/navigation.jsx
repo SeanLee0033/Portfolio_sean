@@ -80,13 +80,6 @@ const Navigation = () => {
                     </NavLink>
                   </Form>
                 </NavItem>
-                {/* <NavItem>
-                  <Form className="col p-1">
-                    <NavLink href="#skills" className="text-decoration-none">
-                      Skills
-                    </NavLink>
-                  </Form>
-                </NavItem> */}
                 <NavItem>
                   <Form className="col p-1">
                     <NavLink href="#work" className="text-decoration-none">
@@ -154,13 +147,6 @@ const Navigation = () => {
                     </NavLink>
                   </Form>
                 </NavItem>
-                {/* <NavItem>
-                  <Form className="col p-1">
-                    <NavLink href="#skills" className="text-decoration-none">
-                      Skills
-                    </NavLink>
-                  </Form>
-                </NavItem> */}
                 <NavItem>
                   <Form className="col p-1">
                     <NavLink href="#work" className="text-decoration-none">

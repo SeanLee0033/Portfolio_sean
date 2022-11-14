@@ -9,8 +9,10 @@
 
   .about__me {
     p {
-      text-align: left;
+      font-size: 20px;
+      text-align: center;
       margin: 3% 5%;
+
     }
   }
 }
@@ -41,7 +43,7 @@
   color: $color-white;
 
   &:hover {
-    color: $color-blue;
+    color: $color-sky-blue;
     transform: rotate(360deg) scale(1.1);
   }
 }
@@ -54,7 +56,7 @@
 }
 
 .major__title {
-  font-size: $font-regular;
+  font-size: 15px;
   font-weight: $weight-semi-bold;
 }
 

@@ -14,10 +14,12 @@ const About = () => {
   return (
     <>
       <div id="about" className="section section__container">
-        <h1>About me</h1>
+        <h1>Skills</h1>
         <div className="about__me">
           <p>
-            Hello World
+            My greatest skill I believe is the ability to quickly learn new skills,
+            <br />
+            accurately identify and solve problems.
           </p>
         </div>
 
@@ -30,9 +32,43 @@ const About = () => {
             </div>
             <div className="major__title">Front-end</div>
             <div className="major__description">
-              HTML, CSS, JavaScript, SASS, Bootstrap, TypeScript
+              React, TypeScript, SASS, Bootstrap
               <br />
-              JSP, JSTL, React, Web APIs
+              HTML, CSS, JavaScript, Jquery
+              <br />
+              Post CSS, Tailwind CSS
+            </div>
+          </div>
+
+          <div className="major">
+            <div className="major__icon">
+              <div>
+                <FontAwesomeIcon icon={faLaptopCode} />
+              </div>
+            </div>
+            <div className="major__title">Back-end</div>
+            <div className="major__description">
+              Java, Node.js, Express.js
+              <br />
+              Apollo GraphQL
+            </div>
+          </div>
+
+          <div className="major">
+            <div className="major__icon">
+              <div>
+                <FontAwesomeIcon icon={faDatabase} />
+              </div>
+            </div>
+            <div className="major__title">
+              Database,
+              <br />
+              hosting platform
+            </div>
+            <div className="major__description">
+              Oracle SQL, MySQL, MongoDB
+              <br />
+              Github Pages, AWS
             </div>
           </div>
 
@@ -42,21 +78,15 @@ const About = () => {
                 <FontAwesomeIcon icon={faServer} />
               </div>
             </div>
-            <div className="major__title">Mobile</div>
-            <div className="major__description">React Native</div>
-          </div>
-
-          <div className="major">
-            <div className="major__icon">
-              <div>
-                <FontAwesomeIcon icon={faDatabase} />
-              </div>
-            </div>
-            <div className="major__title">Back-end</div>
-            <div className="major__description">
-              Java, JPA, NodeJS, Mongoose,
+            <div className="major__title">
+              Test,
               <br />
-              Sequelize, Rest APIs, GraphQL
+              Project Management
+            </div>
+            <div className="major__description">
+              Jest, Cypress
+              <br />
+              Git, Jira
             </div>
           </div>
         </div>

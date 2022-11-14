@@ -11,7 +11,7 @@ import {
 
 const App = () => {
   return (
-    <div style={{ background: '#7c7979' }}>
+    <div style={{ background: '#181818' }}>
       <Navigation />
       <Home />
       <About />
