@@ -1,0 +1,88 @@
+#skills {
+
+  background-color: #7c7979;
+
+}
+
+#skill__head {
+
+  h1,
+  h2,
+  p {
+    color: $color-white;
+  }
+}
+
+.skillset {
+  display: flex;
+  background-color: $color-light-grey;
+  color: $color-light-white;
+  margin: 20px;
+}
+
+.skillset__title {
+  font-size: $font-medium;
+  color: $color-white;
+  margin-bottom: 20px;
+}
+
+.skillset__left {
+  flex-basis: 80%;
+  background-color: $color-dark-grey;
+  padding: 20px 40px;
+}
+
+.skillset__right {
+  flex-basis: 30%;
+}
+
+.tools {
+  background-color: $color-grey;
+}
+
+.skill__description {
+  display: flex;
+  justify-content: space-between;
+}
+
+.skill {
+  margin-bottom: 10px;
+}
+
+.skill__bar {
+  width: 100%;
+
+  .progress {
+    margin-top: 4px;
+  }
+
+  .progress-bar {
+    background-color: $color-yellow;
+    color: $color-dark-grey;
+    font-weight: $weight-semi-bold;
+  }
+}
+
+.skill__value {
+  height: 3px;
+  background-color: $color-orange;
+}
+
+.tools,
+.etc {
+  padding: 20px;
+}
+
+.tools {
+  height: 60%;
+}
+
+.tools__list {
+  margin-top: 40px;
+}
+
+@media screen and (max-width: 450px) {
+  .skillset {
+    flex-direction: column;
+  }
+}

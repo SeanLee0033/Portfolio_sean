@@ -1,0 +1,167 @@
+[
+  {
+    "name": "Capstone",
+    "img": "coach.png",
+    "details": [
+      "SAIT capstone, Clients can conveniently keep track of product stock, part stock, and shipping supply stock."
+    ],
+    "types": [
+      "Coaching"
+    ],
+    "languages": [
+      "JavaScript"
+    ],
+    "technologies": [
+      "React",
+      "Axios",
+      "ExpressJS",
+      "NodeJS",
+      "MongoDB",
+      "AWS"
+    ],
+    "git": "https://github.com/SeanLee0033",
+    "link": "https://github.com/SeanLee0033"
+  },
+  {
+    "name": "Portfolio Web",
+    "img": "aurora.png",
+    "details": [
+      "People can see my summary and contact me on this simple and well-organized web."
+    ],
+    "types": [
+      "Portfolio"
+    ],
+    "languages": [
+      "HTML",
+      "CSS",
+      "JavaScript"
+    ],
+    "technologies": [
+      "React",
+      "SCSS",
+      "Bootstrap"
+    ],
+    "git": "https://github.com/SeanLee0033",
+    "link": "https://github.com/SeanLee0033"
+  },
+  {
+    "name": "Samuria Pizza Cat",
+    "img": "chat.png",
+    "details": [
+      "Description."
+    ],
+    "types": [
+      "Chat"
+    ],
+    "languages": [
+      "JavaScript",
+      "SCSS"
+    ],
+    "technologies": [
+      "React",
+      "Firebase",
+      "Bootstrap"
+    ],
+    "git": "",
+    "link": ""
+  },
+  {
+    "name": "Description.",
+    "img": "blog.png",
+    "details": [
+      "Description."
+    ],
+    "types": [
+      "Blog"
+    ],
+    "languages": [
+      "JavaScript",
+      "SCSS",
+      "NodeJS"
+    ],
+    "technologies": [
+      "ExpressJS",
+      "MongoDB",
+      "React",
+      "Redux",
+      "Redux Saga",
+      "JWT",
+      "AWS S3",
+      "CKEditor5"
+    ],
+    "git": "",
+    "link": ""
+  },
+  {
+    "name": "Description.",
+    "img": "weather.png",
+    "details": [
+      "Description."
+    ],
+    "types": [
+      "Forecast"
+    ],
+    "languages": [
+      "JavaScript"
+    ],
+    "technologies": [
+      "React Native",
+      "Axios",
+      "Expo"
+    ],
+    "git": "",
+    "link": ""
+  },
+  {
+    "name": "Description.",
+    "img": "home.png",
+    "details": [
+      "Description."
+    ],
+    "types": [
+      "Management"
+    ],
+    "languages": [
+      "Java",
+      "JavaScript",
+      "SCSS"
+    ],
+    "technologies": [
+      "JSP",
+      "Servlet",
+      "MySQL(AWS RDS)",
+      "JPA",
+      "JDBC",
+      "JSTL",
+      "Maven",
+      "Jenkins",
+      "Tomcat"
+    ],
+    "git": "",
+    "link": ""
+  },
+  {
+    "name": "Description.",
+    "img": "blog.png",
+    "details": [
+      "Description."
+    ],
+    "types": [
+      "Blog"
+    ],
+    "languages": [
+      "JavaScript",
+      "CSS"
+    ],
+    "technologies": [
+      "React",
+      "Axios",
+      "MySQL",
+      "ExpressJS",
+      "Sequlize",
+      "CKEditor5"
+    ],
+    "git": "",
+    "link": ""
+  }
+]

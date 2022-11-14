@@ -1,0 +1,112 @@
+@import './variables.scss';
+@import './navigation.scss';
+@import './home.scss';
+@import './about.scss';
+@import './skills.scss';
+@import './projects.scss';
+@import './testimonial.scss';
+@import './contact.scss';
+
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: 'Open Sans', sans-serif;
+  cursor: default;
+}
+
+a {
+  text-decoration: none;
+  color: $color-white;
+}
+
+ul {
+  list-style: none;
+  padding-left: 0;
+}
+
+/* Typography */
+
+h1 {
+  font-size: $font-large;
+  font-weight: $weight-bold;
+  color: $color-black;
+  margin: 16px 0px;
+}
+
+h2 {
+  font-size: $font-medium;
+  font-weight: $weight-semi-bold;
+  color: $color-black;
+  margin: 8px 0;
+}
+
+h3 {
+  font-size: $font-regular;
+  font-weight: $weight-regular;
+  color: $color-black;
+  margin: 8px 0;
+}
+
+p {
+  font-size: $font-regular;
+  font-weight: $weight-regular;
+  color: $color-black;
+  margin: 4px 0;
+}
+
+button {
+  background-color: transparent;
+  cursor: pointer;
+  border: none;
+  outline: none;
+}
+
+.section {
+  padding: 50px;
+  text-align: center;
+  margin: auto;
+}
+
+.section__container {
+  max-width: 1000px;
+  margin: auto;
+}
+
+@media screen and (max-width: 450px) {
+  .section {
+    padding: 16px;
+    padding-top: 50px;
+  }
+
+  h1 {
+    font-size: $media-font-large;
+    font-weight: $weight-bold;
+    color: $color-black;
+    margin: 16px 0px;
+  }
+
+  h2 {
+    font-size: $media-font-medium;
+    font-weight: $weight-semi-bold;
+    color: $color-black;
+    margin: 8px 0;
+  }
+
+  h3 {
+    font-size: $media-font-regular;
+    font-weight: $weight-regular;
+    color: $color-black;
+    margin: 8px 0;
+  }
+
+  p {
+    font-size: $media-font-regular;
+    font-weight: $weight-regular;
+    color: $color-black;
+    margin: 4px 0;
+  }
+}

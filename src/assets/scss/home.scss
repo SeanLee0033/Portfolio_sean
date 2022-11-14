@@ -1,0 +1,71 @@
+#home {
+  position: relative;
+  bottom: 64px;
+  background: rgb(0, 0, 0);
+  background: linear-gradient(0deg,
+      rgba(0, 0, 0, 1) 0%,
+      rgba(0, 0, 0, 1) 60%,
+      rgba(89, 160, 246, 1) 100%),
+    center/cover no-repeat;
+  padding: 40px;
+  text-align: center;
+  height: 95vh;
+  max-height: 1100px;
+  display: flex;
+  align-items: center;
+
+  .home__container {
+    margin-top: 20px;
+  }
+
+  .home__avatar {
+    width: 200px;
+    height: 200px;
+  }
+
+  .home__title,
+  .home__description {
+    color: $color-white;
+  }
+
+  .home__message {
+    color: aliceblue;
+    font-size: $font-medium;
+  }
+
+  .home__contact {
+    color: $color-white;
+    font-size: $font-regular;
+    font-weight: $weight-bold;
+    margin: 24px;
+    padding: 8px 12px;
+    border: 2px solid $color-white;
+    border-radius: $size-border-radius;
+
+    &:hover {
+      a {
+        text-decoration: none;
+        color: $color-white;
+      }
+
+      background-color: $color-blue;
+      transition: all $animation-duration ease-in;
+    }
+
+    &:focus {
+      outline: none;
+    }
+  }
+}
+
+// @media screen and (max-width: 450px) {
+//   #home .home__message {
+//     color: $color-white;
+//     font-size: $media-font-regular;
+//   }
+
+//   #home .home__avatar {
+//     width: 150px;
+//     height: 150px;
+//   }
+// }

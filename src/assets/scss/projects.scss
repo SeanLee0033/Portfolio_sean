@@ -1,0 +1,59 @@
+#work {
+  .rec.rec-arrow {
+    &:hover {
+      color: white;
+      background-color: #C5E1DE;
+    }
+
+    color: $color-blue;
+  }
+
+  .rec.rec-arrow-left {
+    position: absolute;
+    left: 3vw;
+  }
+
+  .rec.rec-arrow-right {
+    position: absolute;
+    right: 3vw;
+  }
+
+  .rec-pagination {
+    background: #092038;
+    padding: 5px 8px;
+    margin: 20px;
+    border-radius: 15px;
+  }
+
+  .rec-dot_active {
+    background-color: $color-blue;
+    box-shadow: 0 0 1px 3px #C5E1DE;
+  }
+
+  .rec-dot {
+    &:hover {
+      cursor: pointer;
+      box-shadow: 0 0 1px 3px #C5E1DE(190, 140, 78);
+    }
+  }
+}
+
+@media screen and (max-width: 450px) {
+  .rec.rec-arrow-left {
+    left: 0;
+    transform: scale(0.7);
+  }
+
+  .rec.rec-arrow-right {
+    right: 0;
+    transform: scale(0.7);
+  }
+
+  .rec-pagination {
+    transform: scale(0.8);
+  }
+
+  #projects__card {
+    transform: scale(0.8);
+  }
+}
