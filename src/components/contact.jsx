@@ -9,7 +9,7 @@ const Contact = () => {
   return (
     <>
       <div id="contact" className="section">
-        <h1 className="contact__title">Let's talk</h1>
+        <h1 className="contact__title">Contact me</h1>
         <div className="contact__links">
           <a
             href="mailto:seanlee.nov@gmail.com"

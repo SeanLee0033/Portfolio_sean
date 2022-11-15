@@ -5,6 +5,14 @@
   .section {
     margin-top: 30px;
   }
+
+  h1 {
+    font-size: 46px;
+    font-weight: $weight-bold;
+    margin: 20px 0px;
+  }
+
+  padding-top: 35px;
 }
 
 .contact__title,
@@ -32,15 +40,5 @@
     transform: scale(1.1);
     color: $color-sky-blue;
     transition: all animation-duration ease-in;
-  }
-}
-
-@media screen and (max-width: 450px) {
-  #contact {
-    padding-top: 20px;
-
-    .contact__links {
-      padding: 0% 30%;
-    }
   }
 }
