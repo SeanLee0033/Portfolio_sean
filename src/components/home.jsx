@@ -18,7 +18,7 @@ const Home = () => {
               id="type"
               options={{
                 strings: [
-                  'A Software Developer, who likes to identify and solve problemss',
+                  'A Software Developer, who likes to identify and solve problems',
                   'Solve problems to build effective and impactful software.'
                 ],
                 autoStart: true,
