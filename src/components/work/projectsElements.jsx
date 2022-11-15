@@ -154,7 +154,7 @@ export const ProjectLang = styled.li`
   border-color: none;
   padding: 1px 7px;
   margin: 5px;
-  background: #f58905;
+  background: #79254a;
   color: #fff;
   font-size: 0.8rem;
 `;
@@ -164,7 +164,7 @@ export const ProjectTech = styled.li`
   border-color: none;
   padding: 1px 7px;
   margin: 5px;
-  background: #ffc107;
+  background: #d0307e;
   color: #fff;
   font-size: 0.8rem;
 `;
@@ -288,7 +288,6 @@ export const LangListWrapper = styled.div`
     margin: 5px;
     border: 1px solid #fff;
   }
-  /* max-width: 80vw; */
 
   @media screen and (max-width: 480px) {
     max-width: 100vw;
@@ -296,16 +295,13 @@ export const LangListWrapper = styled.div`
 `;
 
 export const LangList = styled.div`
-  /* background: #000; */
   background: #fff;
-  /* color: #fff; */
   padding: 5px;
   margin: 7px;
   border-radius: 10px;
   text-align: center;
   /* cursor: pointer; */
-  background: ${({ filterLang }) => (filterLang ? '#8ebeef' : '#fff')};
-  /* transform: ${({ filterLang }) => (filterLang ? 'scale(1.1)' : '')}; */
+  background: ${({ filterLang }) => (filterLang ? '#a32b63' : '#fff')};
 
   &:hover {
     /* transform: scale(1.2); */
@@ -323,8 +319,7 @@ export const ModalCloseButton = styled.div`
   position: absolute;
   color: #fff;
   cursor: pointer;
-  background: #8c0000;
-  /* border: 1px solid #a2a2a2; */
+  background: #a32b63;
   border-radius: 20px;
   width: 2rem;
   height: 2rem;
@@ -333,9 +328,7 @@ export const ModalCloseButton = styled.div`
 `;
 
 export const LangFilterAll = styled.div`
-  /* background: #000; */
   background: #fff;
-  /* color: #fff; */
   padding: 5px;
   margin: 20px 7px 7px 7px;
   width: 50px;
@@ -344,7 +337,7 @@ export const LangFilterAll = styled.div`
   letter-spacing: 3px;
   text-transform: uppercase;
   /* cursor: pointer; */
-  background: ${({ filterLang }) => (filterLang ? '#8ebeef' : '#fff')};
+  background: ${({ filterLang }) => (filterLang ? '#a32b63' : '#fff')};
   transform: ${({ filterLang }) => (filterLang ? 'scale(1.2)' : '')};
 
   &:hover {

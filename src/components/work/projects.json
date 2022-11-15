@@ -1,19 +1,22 @@
 [
   {
     "name": "Capstone",
-    "img": "coach.png",
+    "img": "vologo.jpg",
     "details": [
-      "SAIT capstone, Clients can conveniently keep track of product stock, part stock, and shipping supply stock."
+      "SAIT capstone, A full stack project using MERN Stack."
     ],
     "types": [
-      "Coaching"
+      "Management"
     ],
     "languages": [
+      "HTML5",
+      "CSS",
       "JavaScript"
     ],
     "technologies": [
       "React",
       "Axios",
+      "Bootstrap",
       "ExpressJS",
       "NodeJS",
       "MongoDB",
@@ -24,21 +27,20 @@
   },
   {
     "name": "Portfolio Web",
-    "img": "aurora.png",
+    "img": "logo.gif",
     "details": [
-      "People can see my summary and contact me on this simple and well-organized web."
+      "Built responsive pages with React.js and Bootstrap. People can see my summary and contact me on this simple and well-organized web."
     ],
     "types": [
       "Portfolio"
     ],
     "languages": [
-      "HTML",
-      "CSS",
+      "HTML5",
+      "SCSS",
       "JavaScript"
     ],
     "technologies": [
       "React",
-      "SCSS",
       "Bootstrap"
     ],
     "git": "https://github.com/SeanLee0033",
@@ -46,120 +48,97 @@
   },
   {
     "name": "Samuria Pizza Cat",
-    "img": "chat.png",
+    "img": "pizza.svg",
     "details": [
-      "Description."
+      "6weeks term Bootcamp on Harvest Builder. A Full stack project using the latest technology."
     ],
     "types": [
-      "Chat"
+      "Ordering system"
     ],
     "languages": [
-      "JavaScript",
-      "SCSS"
-    ],
-    "technologies": [
-      "React",
-      "Firebase",
-      "Bootstrap"
-    ],
-    "git": "",
-    "link": ""
-  },
-  {
-    "name": "Description.",
-    "img": "blog.png",
-    "details": [
-      "Description."
-    ],
-    "types": [
-      "Blog"
-    ],
-    "languages": [
-      "JavaScript",
+      "HTML5",
       "SCSS",
-      "NodeJS"
-    ],
-    "technologies": [
-      "ExpressJS",
-      "MongoDB",
-      "React",
-      "Redux",
-      "Redux Saga",
-      "JWT",
-      "AWS S3",
-      "CKEditor5"
-    ],
-    "git": "",
-    "link": ""
-  },
-  {
-    "name": "Description.",
-    "img": "weather.png",
-    "details": [
-      "Description."
-    ],
-    "types": [
-      "Forecast"
-    ],
-    "languages": [
       "JavaScript"
     ],
     "technologies": [
-      "React Native",
-      "Axios",
-      "Expo"
+      "React",
+      "TypeScript",
+      "Material UI",
+      "Node.js",
+      "Apollo GraphQL",
+      "MongoDB",
+      "Docker",
+      "Jest",
+      "Jira",
+      "GIT"
     ],
     "git": "",
     "link": ""
   },
   {
-    "name": "Description.",
-    "img": "home.png",
+    "name": "Shoppy",
+    "img": "shopify.svg",
     "details": [
-      "Description."
+      "Built responsive pages with React and Tailwind CSS."
+    ],
+    "types": [
+      "E-commerce"
+    ],
+    "languages": [
+      "HTML5",
+      "CSS",
+      "JavaScript"
+    ],
+    "technologies": [
+      "React",
+      "Tailwind CSS",
+      "React Router",
+      "React Query",
+      "Firebase"
+    ],
+    "git": "",
+    "link": ""
+  },
+  {
+    "name": "YouTube Clone",
+    "img": "youtube.svg",
+    "details": [
+      "Built responsive pages with React and Tailwind CSS."
+    ],
+    "types": [
+      "Video Platform"
+    ],
+    "languages": [
+      "HTML5",
+      "CSS",
+      "JavaScript"
+    ],
+    "technologies": [
+      "React",
+      "Tailwind CSS",
+      "React Router",
+      "React Query",
+      "Firebase"
+    ],
+    "git": "",
+    "link": ""
+  },
+  {
+    "name": "Motion",
+    "img": "motion.svg",
+    "details": [
+      "Implementing various dynamic functions using TypeScript."
     ],
     "types": [
       "Management"
     ],
     "languages": [
-      "Java",
-      "JavaScript",
-      "SCSS"
+      "HTML5",
+      "CSS",
+      "JavaScript"
     ],
     "technologies": [
-      "JSP",
-      "Servlet",
-      "MySQL(AWS RDS)",
-      "JPA",
-      "JDBC",
-      "JSTL",
-      "Maven",
-      "Jenkins",
-      "Tomcat"
-    ],
-    "git": "",
-    "link": ""
-  },
-  {
-    "name": "Description.",
-    "img": "blog.png",
-    "details": [
-      "Description."
-    ],
-    "types": [
-      "Blog"
-    ],
-    "languages": [
-      "JavaScript",
-      "CSS"
-    ],
-    "technologies": [
-      "React",
-      "Axios",
-      "MySQL",
-      "ExpressJS",
-      "Sequlize",
-      "CKEditor5"
+      "TypeScript"
     ],
     "git": "",
     "link": ""

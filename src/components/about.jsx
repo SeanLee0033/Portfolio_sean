@@ -4,7 +4,6 @@ import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import {
   faDatabase,
   faLaptopCode,
-  faMobile,
   faServer,
 } from '@fortawesome/free-solid-svg-icons';
 import SaitLogo from '../assets/img/educations/saitLogo.png';
@@ -32,7 +31,7 @@ const About = () => {
             </div>
             <div className="major__title">Front-end</div>
             <div className="major__description">
-              React, TypeScript, SASS, Bootstrap
+              React, TypeScript, SASS, Material UI,
               <br />
               HTML, CSS, JavaScript, Jquery
               <br />
@@ -50,7 +49,7 @@ const About = () => {
             <div className="major__description">
               Java, Node.js, Express.js
               <br />
-              Apollo GraphQL
+              Apollo GraphQL, Firebase
             </div>
           </div>
 
