@@ -7,6 +7,7 @@ import {
   faServer,
 } from '@fortawesome/free-solid-svg-icons';
 import SaitLogo from '../assets/img/educations/saitLogo.png';
+import Harvest from '../assets/img/educations/harvest.jpeg';
 import { faReact } from '@fortawesome/free-brands-svg-icons';
 
 const About = () => {
@@ -100,14 +101,32 @@ const About = () => {
             />
             <div className="job__description">
               <p className="job__name">
-                <b>Southern Alberta Institute of Technology</b> <br /> Software
-                Development
+                <b>Southern Alberta Institute of Technology</b> <br />
+                Software Development
               </p>
               <p className="job__period">May 2020 - December 2022</p>
             </div>
           </div>
-        </div>
 
+
+          <div className="job">
+            <div className="job2">
+              <Image
+                src={Harvest}
+                alt="Harvest"
+                className="job__logo"
+                id="job__logo2"
+              />
+              <div className="job__description">
+                <p className="job__name">
+                  <b>Harvest Builders</b> <br />
+                  Full-stack developer Bootcamp
+                </p>
+                <p className="job__period">October 2022 - November 2022</p>
+              </div>
+            </div>
+          </div>
+        </div>
       </div>
     </>
   );

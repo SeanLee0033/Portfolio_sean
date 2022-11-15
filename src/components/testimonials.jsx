@@ -7,7 +7,6 @@ const Testimonials = () => {
       <div id="testimonials" className="section">
         <div className="section__container">
           <h1>Testimonials</h1>
-          <h3>See what they say about me</h3>
           <div className="testimonials">
             <div className="testimonial">
               <img src={Jay} alt="People" className="testimonial__avatar" />
