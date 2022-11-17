@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/Portfolio_sean/static/css/main.2a6c545b.chunk.css",
+    "main.js": "/Portfolio_sean/static/js/main.bdb570b8.chunk.js",
+    "main.js.map": "/Portfolio_sean/static/js/main.bdb570b8.chunk.js.map",
+    "runtime-main.js": "/Portfolio_sean/static/js/runtime-main.7fe24ba0.js",
+    "runtime-main.js.map": "/Portfolio_sean/static/js/runtime-main.7fe24ba0.js.map",
+    "static/css/2.4c97ca4f.chunk.css": "/Portfolio_sean/static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.ec80151a.chunk.js": "/Portfolio_sean/static/js/2.ec80151a.chunk.js",
+    "static/js/2.ec80151a.chunk.js.map": "/Portfolio_sean/static/js/2.ec80151a.chunk.js.map",
+    "index.html": "/Portfolio_sean/index.html",
+    "static/css/2.4c97ca4f.chunk.css.map": "/Portfolio_sean/static/css/2.4c97ca4f.chunk.css.map",
+    "static/css/main.2a6c545b.chunk.css.map": "/Portfolio_sean/static/css/main.2a6c545b.chunk.css.map",
+    "static/js/2.ec80151a.chunk.js.LICENSE.txt": "/Portfolio_sean/static/js/2.ec80151a.chunk.js.LICENSE.txt",
+    "static/media/Hojune.8691bced.png": "/Portfolio_sean/static/media/Hojune.8691bced.png",
+    "static/media/Jay.ebb65670.jpeg": "/Portfolio_sean/static/media/Jay.ebb65670.jpeg",
+    "static/media/Jiasheng.7148d3ec.jpeg": "/Portfolio_sean/static/media/Jiasheng.7148d3ec.jpeg",
+    "static/media/graduation-cap-solid.svg": "/Portfolio_sean/static/media/graduation-cap-solid.94e1a723.svg",
+    "static/media/motion.svg": "/Portfolio_sean/static/media/motion.6cc93033.svg",
+    "static/media/pizza.svg": "/Portfolio_sean/static/media/pizza.534f3b82.svg",
+    "static/media/profile1.21f0ab97.png": "/Portfolio_sean/static/media/profile1.21f0ab97.png",
+    "static/media/saitLogo.cb12e72e.png": "/Portfolio_sean/static/media/saitLogo.cb12e72e.png",
+    "static/media/shirt.svg": "/Portfolio_sean/static/media/shirt.c3a504f9.svg",
+    "static/media/shopify.svg": "/Portfolio_sean/static/media/shopify.d70d84e2.svg",
+    "static/media/vologo.jpg": "/Portfolio_sean/static/media/vologo.457dac4b.jpg",
+    "static/media/youtube.svg": "/Portfolio_sean/static/media/youtube.001d5b1e.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7fe24ba0.js",
+    "static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.ec80151a.chunk.js",
+    "static/css/main.2a6c545b.chunk.css",
+    "static/js/main.bdb570b8.chunk.js"
+  ]
+}
