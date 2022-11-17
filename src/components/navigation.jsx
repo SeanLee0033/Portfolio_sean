@@ -119,7 +119,7 @@ const Navigation = () => {
           style={{ backgroundColor: 'transparent' }}
         >
           <Container>
-            <NavbarBrand href="/">
+            <NavbarBrand href="#home">
               <img
                 className="logo"
                 src={logo2}
