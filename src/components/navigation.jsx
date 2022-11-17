@@ -10,8 +10,6 @@ import {
   NavItem,
   NavLink,
 } from 'reactstrap';
-import logo1 from '../assets/img/logo1.gif';
-import logo2 from '../assets/img/logo2.gif';
 
 const Navigation = () => {
   const [isOpen, setIsOpen] = useState(false);
@@ -54,7 +52,7 @@ const Navigation = () => {
             <NavbarBrand href="/">
               <img
                 className="logo"
-                src={logo1}
+                src="logo1.gif"
                 alt="logo"
                 style={{ width: '65px', height: '35px', marginBottom: '0px' }}
               />
@@ -122,7 +120,7 @@ const Navigation = () => {
             <NavbarBrand href="/">
               <img
                 className="logo"
-                src={logo2}
+                src="logo2.gif"
                 alt="logo"
                 style={{ width: '65px', height: '34px', marginBottom: '0px' }}
               />
