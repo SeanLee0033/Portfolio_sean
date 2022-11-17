@@ -34,7 +34,7 @@ const About = () => {
             <div className="major__description">
               React, TypeScript, SASS, Material UI,
               <br />
-              HTML, CSS, JavaScript, Jquery
+              HTML, CSS, JavaScript
               <br />
               Post CSS, Tailwind CSS
             </div>
