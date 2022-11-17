@@ -51,7 +51,7 @@ const Navigation = () => {
           style={{ backgroundColor: 'black' }}
         >
           <Container>
-            <NavbarBrand href="/">
+            <NavbarBrand href="#home">
               <img
                 className="logo"
                 src={logo1}

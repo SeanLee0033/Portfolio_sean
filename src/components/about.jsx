@@ -66,7 +66,7 @@ const About = () => {
               hosting platform
             </div>
             <div className="major__description">
-              Oracle SQL, MySQL, MongoDB
+              {/* Oracle SQL, MySQL,*/} MongoDB
               <br />
               Github Pages, AWS
             </div>
