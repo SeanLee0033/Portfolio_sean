@@ -10,7 +10,7 @@ const Testimonials = () => {
         <div className="section__container">
           <h1>Testimonials</h1>
           <div className="testimonials">
-            <div className="testimonial">
+            {/* <div className="testimonial">
               <img src={Hojune} alt="People" className="testimonial__avatar" />
               <div className="testimonial__speech-bubble">
                 <p>
@@ -23,7 +23,7 @@ const Testimonials = () => {
                   / Founder @ JSolution
                 </p>
               </div>
-            </div>
+            </div> */}
 
             <div className="testimonial">
               <div className="testimonial__speech-bubble">
@@ -32,12 +32,12 @@ const Testimonials = () => {
                 </p>
                 <p className="name">
                   <a href="https://www.linkedin.com/in/jiashenglujob/">
-                    Jiasheng Lu
+                    Jae Chung
                   </a>
-                  / Frontend Developer @ Motiv
+                  / Founder @ JSolution
                 </p>
               </div>
-              <img src={Jiasheng} alt="People" className="testimonial__avatar" />
+              <img src={Jay} alt="People" className="testimonial__avatar" />
             </div>
 
             <div className="testimonial">
@@ -48,9 +48,9 @@ const Testimonials = () => {
                 </p>
                 <p className="name">
                   <a href="https://www.linkedin.com/in/jae-chung-56026384/">
-                    Jae Chung
+                    Jiasheng Lu
                   </a>
-                  / Founder @ JSolution
+                  / Frontend Developer @ Motiv
                 </p>
               </div>
             </div>
