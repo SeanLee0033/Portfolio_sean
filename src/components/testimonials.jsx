@@ -44,7 +44,8 @@ const Testimonials = () => {
               <img src={Jiasheng} alt="People" className="testimonial__avatar" />
               <div className="testimonial__speech-bubble">
                 <p>
-                  "Sean worked as a website developer intern at JSolution for 3 months. His work is always finished on time, and he always goes the extra mile to ensure the client requirements are met. He is a highly-skilled, willing to learn new things, and helpful team member with a positive attitude. Working with Sean has been a great experience for everyone at our company due to his team work."
+                  “It was a great pleasure to share many classes and worked on several projects with Sean at school. He was always accommodating, kind, and motivated. We worked on many projects and assignment together, and he is very patient and responsible. He is creative, smart, and is willing to help when you need it. Sean is the kind of person who does anything for the group’s benefit.”
+
                 </p>
                 <p className="name">
                   <a href="https://www.linkedin.com/in/jae-chung-56026384/">
