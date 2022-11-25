@@ -48,7 +48,7 @@ const About = () => {
             </div>
             <div className="major__title">Back-end</div>
             <div className="major__description">
-              Node.js, Express.j, Java
+              Node.js, Express.js, Java
               <br />
               Apollo GraphQL, Firebase
             </div>
