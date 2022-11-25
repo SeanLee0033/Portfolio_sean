@@ -78,7 +78,7 @@ const Navigation = () => {
                 <NavItem>
                   <Form className="col p-1">
                     <NavLink href="#about" className="text-decoration-none">
-                      About
+                      Skills
                     </NavLink>
                   </Form>
                 </NavItem>
