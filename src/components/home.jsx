@@ -19,7 +19,7 @@ const Home = () => {
               options={{
                 strings: [
                   'A Software Developer, who likes to identify and solve problems',
-                  'Solves problems to build effective and impactful software.'
+                  'Solves problems to build effective and impactful software'
                 ],
                 autoStart: true,
                 loop: true,
