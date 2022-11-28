@@ -1,7 +1,7 @@
 import React from 'react';
 import Jay from '../assets/img/testimonials/Jay.jpeg';
 import Jiasheng from '../assets/img/testimonials/Jiasheng.jpeg';
-import Hojune from '../assets/img/testimonials/Hojune.png';
+import Hojune from '../assets/img/testimonials/Hojune.jpg';
 
 const Testimonials = () => {
   return (
@@ -10,20 +10,20 @@ const Testimonials = () => {
         <div className="section__container">
           <h1>Testimonials</h1>
           <div className="testimonials">
-            {/* <div className="testimonial">
+            <div className="testimonial">
               <img src={Hojune} alt="People" className="testimonial__avatar" />
               <div className="testimonial__speech-bubble">
                 <p>
-                  "Sean worked as a website developer intern at JSolution for 3 months. His work is always finished on time, and he always goes the extra mile to ensure the client requirements are met. He is a highly-skilled, willing to learn new things, and helpful team member with a positive attitude. Working with Sean has been a great experience for everyone at our company due to his team work."
+                  "I've been mentoring Sean for about a year now, and it's been my great pleasure to see him grow so fast. After first couple meeting with him I could already tell he has so much potential. I can't wait to see what great things he will achieve in next couple years!"
                 </p>
                 <p className="name">
                   <a href="https://www.linkedin.com/in/jae-chung-56026384/">
-                    Jae Chung
+                    Hojune Yoo
                   </a>
-                  / Founder @ JSolution
+                  / Senior Site Reliability Engineer @ Twitter
                 </p>
               </div>
-            </div> */}
+            </div>
 
             <div className="testimonial">
               <div className="testimonial__speech-bubble">
