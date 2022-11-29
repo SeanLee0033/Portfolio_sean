@@ -46,7 +46,7 @@
       "Jira",
       "GIT"
     ],
-    "git": "",
+    "git": "https://github.com/SeanLee0033/Samuria-pizza-cats",
     "link": ""
   },
   {
@@ -120,7 +120,7 @@
       "MongoDB",
       "AWS"
     ],
-    "git": "https://github.com/SeanLee0033"
+    "git": "https://github.com/ccmens/capstone"
   },
   {
     "name": "Motion",
