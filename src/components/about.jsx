@@ -68,7 +68,7 @@ const About = () => {
             <div className="major__description">
               {/* Oracle SQL, MySQL,*/} MongoDB
               <br />
-              Github Pages, AWS
+              Github Pages, Netlify, AWS
             </div>
           </div>
 

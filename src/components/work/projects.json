@@ -1,31 +1,5 @@
 [
   {
-    "name": "Capstone",
-    "img": "vologo.jpg",
-    "details": [
-      "SAIT capstone, A full stack project using MERN Stack."
-    ],
-    "types": [
-      "Management"
-    ],
-    "languages": [
-      "HTML5",
-      "CSS",
-      "JavaScript"
-    ],
-    "technologies": [
-      "React",
-      "Axios",
-      "Bootstrap",
-      "ExpressJS",
-      "NodeJS",
-      "MongoDB",
-      "AWS"
-    ],
-    "git": "https://github.com/SeanLee0033",
-    "link": "https://github.com/SeanLee0033"
-  },
-  {
     "name": "Portfolio Web",
     "img": "logo.gif",
     "details": [
@@ -100,10 +74,10 @@
     "link": ""
   },
   {
-    "name": "YouTube Clone",
+    "name": "SeanTube",
     "img": "youtube.svg",
     "details": [
-      "Built responsive pages with React and Tailwind CSS."
+      "Developed Video streaming platform using Youtube API."
     ],
     "types": [
       "Video Platform"
@@ -122,6 +96,31 @@
     ],
     "git": "https://github.com/SeanLee0033",
     "link": ""
+  },
+  {
+    "name": "Capstone",
+    "img": "vologo.jpg",
+    "details": [
+      "SAIT capstone, A full stack project using MERN Stack."
+    ],
+    "types": [
+      "Management"
+    ],
+    "languages": [
+      "HTML5",
+      "CSS",
+      "JavaScript"
+    ],
+    "technologies": [
+      "React",
+      "Axios",
+      "Bootstrap",
+      "ExpressJS",
+      "NodeJS",
+      "MongoDB",
+      "AWS"
+    ],
+    "git": "https://github.com/SeanLee0033"
   },
   {
     "name": "Motion",
