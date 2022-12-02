@@ -50,6 +50,32 @@
     "link": ""
   },
   {
+    "name": "Capstone",
+    "img": "vologo.jpg",
+    "details": [
+      "SAIT capstone, A full stack project using MERN Stack."
+    ],
+    "types": [
+      "Management"
+    ],
+    "languages": [
+      "HTML5",
+      "CSS",
+      "JavaScript"
+    ],
+    "technologies": [
+      "React",
+      "Axios",
+      "Bootstrap",
+      "ExpressJS",
+      "NodeJS",
+      "MongoDB",
+      "AWS"
+    ],
+    "git": "https://github.com/ccmens/capstone",
+    "link": "https://varoscmgmt.net/"
+  },
+  {
     "name": "Shoppy",
     "img": "shopify.svg",
     "details": [
@@ -96,31 +122,6 @@
     ],
     "git": "https://github.com/SeanLee0033/SeanTube",
     "link": "https://serene-conkies-713158.netlify.app/"
-  },
-  {
-    "name": "Capstone",
-    "img": "vologo.jpg",
-    "details": [
-      "SAIT capstone, A full stack project using MERN Stack."
-    ],
-    "types": [
-      "Management"
-    ],
-    "languages": [
-      "HTML5",
-      "CSS",
-      "JavaScript"
-    ],
-    "technologies": [
-      "React",
-      "Axios",
-      "Bootstrap",
-      "ExpressJS",
-      "NodeJS",
-      "MongoDB",
-      "AWS"
-    ],
-    "git": "https://github.com/ccmens/capstone"
   },
   {
     "name": "Motion",
