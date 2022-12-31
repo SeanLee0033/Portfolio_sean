@@ -31,7 +31,7 @@ const Testimonials = () => {
                   "Sean worked as a website developer intern at JSolution for 3 months. His work is always finished on time, and he always goes the extra mile to ensure the client requirements are met. He is a highly-skilled, willing to learn new things, and helpful team member with a positive attitude. Working with Sean has been a great experience for everyone at our company due to his team work."
                 </p>
                 <p className="name">
-                  <a href="https://www.linkedin.com/in/jiashenglujob/">
+                  <a href="https://www.linkedin.com/in/jae-chung-56026384/">
                     Jae Chung
                   </a>
                   / Founder @ JSolution
@@ -48,7 +48,7 @@ const Testimonials = () => {
 
                 </p>
                 <p className="name">
-                  <a href="https://www.linkedin.com/in/jae-chung-56026384/">
+                  <a href="https://www.linkedin.com/in/jiashenglujob/">
                     Jiasheng Lu
                   </a>
                   / Frontend Developer @ Motiv
