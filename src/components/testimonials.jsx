@@ -17,7 +17,7 @@ const Testimonials = () => {
                   "I've been mentoring Sean for about a year now, and it's been my great pleasure to see him grow so fast. After first couple meeting with him I could already tell he has so much potential. I can't wait to see what great things he will achieve in next couple years!"
                 </p>
                 <p className="name">
-                  <a href="https://www.linkedin.com/in/jae-chung-56026384/">
+                  <a href="https://www.linkedin.com/in/hojuneyoo/">
                     Hojune Yoo
                   </a>
                   / Senior Site Reliability Engineer @ Twitter
